@@ -8,8 +8,3 @@ This is a beginner-level front-end project where I tried to recreate the Jio Hot
 ## 🚀 Tech Stack
 - HTML
 - CSS
-
-## 📸 Screenshots
-Add your screenshots here if needed
-
-## 📁 Folder Structure
